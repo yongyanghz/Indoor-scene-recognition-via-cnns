@@ -1,0 +1,15 @@
+,scene_name,num,accuracy
+0,bathroom       ,49.0,0.918367346939
+1,bedroom        ,77.0,0.766233766234
+2,bookstore      ,36.0,0.888888888889
+3,classroom      ,40.0,0.95
+4,dining_room    ,47.0,0.574468085106
+5,furniture_store,44.0,0.954545454545
+6,home_office    ,40.0,0.8
+7,kitchen        ,45.0,0.444444444444
+8,living_room    ,45.0,0.466666666667
+9,office         ,47.0,0.744680851064
+10,office_kitchen ,34.0,0.970588235294
+11,playroom       ,31.0,0.709677419355
+12,reception_room ,34.0,0.941176470588
+13,study          ,40.0,0.65

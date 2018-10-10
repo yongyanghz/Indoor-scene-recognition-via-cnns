@@ -1,0 +1,227 @@
+﻿solver_config.base_lr = 5e-6
+solver_config.weight_decay = 0.075
+solver_config.iter_size = 20
+
+solver_config.momentum = 0.9
+solver_config.momentum2 = 0.999
+delta = 1e-8
+solver_config.lr_policy = 'fixed'
+solver_config.type = 'Adam'
+
+validation accuracy = 0.509749
+
+
+Running solvers for 1001 iterations.
+number correct: 0
+train accuracy is 0.000000
+number correct: 0.0
+accuracy is 0.000000
+iter 0 loss is 3.295837
+iter 20 loss is 3.989584
+iter 40 loss is 1.221583
+iter 60 loss is 2.467987
+iter 80 loss is 1.162044
+number correct: 84
+train accuracy is 0.280000
+number correct: 98.0
+accuracy is 0.272981
+iter 100 loss is 2.178930
+iter 120 loss is 1.583310
+iter 140 loss is 1.647807
+iter 160 loss is 1.881881
+iter 180 loss is 0.872837
+number correct: 96
+train accuracy is 0.320000
+number correct: 116.0
+accuracy is 0.323120
+iter 200 loss is 2.836971
+iter 220 loss is 1.635048
+iter 240 loss is 1.300161
+iter 260 loss is 0.694882
+iter 280 loss is 0.512561
+number correct: 115
+train accuracy is 0.383333
+number correct: 125.0
+accuracy is 0.348189
+iter 300 loss is 0.401188
+iter 320 loss is 0.338177
+iter 340 loss is 1.196377
+iter 360 loss is 2.919542
+iter 380 loss is 1.092864
+number correct: 197
+train accuracy is 0.656667
+number correct: 156.0
+accuracy is 0.434540
+iter 400 loss is 1.053316
+iter 420 loss is 0.315175
+iter 440 loss is 1.265672
+iter 460 loss is 1.974576
+iter 480 loss is 0.411541
+number correct: 229
+train accuracy is 0.763333
+number correct: 167.0
+accuracy is 0.465181
+iter 500 loss is 1.288031
+iter 520 loss is 0.729294
+iter 540 loss is 0.363023
+iter 560 loss is 0.104798
+iter 580 loss is 0.111176
+number correct: 262
+train accuracy is 0.873333
+number correct: 178.0
+accuracy is 0.495822
+iter 600 loss is 0.103371
+iter 620 loss is 1.112679
+iter 640 loss is 0.223594
+iter 660 loss is 0.058071
+iter 680 loss is 0.173710
+number correct: 278
+train accuracy is 0.926667
+number correct: 183.0
+accuracy is 0.509749
+iter 700 loss is 0.055279
+iter 720 loss is 0.252695
+iter 740 loss is 0.283377
+iter 760 loss is 0.284734
+iter 780 loss is 0.153758
+number correct: 287
+train accuracy is 0.956667
+number correct: 177.0
+accuracy is 0.493036
+iter 800 loss is 0.047404
+iter 820 loss is 0.051596
+iter 840 loss is 0.206725
+iter 860 loss is 0.020997
+iter 880 loss is 0.110178
+number correct: 295
+train accuracy is 0.983333
+number correct: 180.0
+accuracy is 0.501393
+iter 900 loss is 0.073430
+iter 920 loss is 0.159338
+iter 940 loss is 0.050664
+iter 960 loss is 0.035324
+iter 980 loss is 0.036312
+number correct: 298
+train accuracy is 0.993333
+number correct: 181.0
+accuracy is 0.504178
+iter 1000 loss is 0.040046
+Done.
+CPU times: user 11h 23min 38s, sys: 6min 40s, total: 11h 30min 19s
+Wall time: 6h 12min 29s
+
+
+
+
+
+solver_config.base_lr = 5e-6
+solver_config.weight_decay = 0.3
+solver_config.iter_size = 20
+
+solver_config.momentum = 0.9
+solver_config.momentum2 = 0.999
+delta = 1e-8
+solver_config.lr_policy = 'fixed'
+solver_config.type = 'Adam'
+
+Running solvers for 1001 iterations.
+number correct: 0
+train accuracy is 0.000000
+number correct: 0.0
+accuracy is 0.000000
+iter 0 loss is 3.295837
+iter 20 loss is 3.892265
+iter 40 loss is 1.164028
+iter 60 loss is 2.391734
+iter 80 loss is 1.311150
+number correct: 83
+train accuracy is 0.276667
+number correct: 96.0
+accuracy is 0.267409
+iter 100 loss is 2.147167
+iter 120 loss is 1.605871
+iter 140 loss is 1.825293
+iter 160 loss is 1.864670
+iter 180 loss is 1.072833
+number correct: 89
+train accuracy is 0.296667
+number correct: 108.0
+accuracy is 0.300836
+iter 200 loss is 2.624331
+iter 220 loss is 1.819964
+iter 240 loss is 1.623532
+iter 260 loss is 0.897348
+iter 280 loss is 0.851806
+number correct: 97
+train accuracy is 0.323333
+number correct: 119.0
+accuracy is 0.331476
+iter 300 loss is 0.534455
+iter 320 loss is 0.775500
+iter 340 loss is 1.173946
+iter 360 loss is 3.317705
+iter 380 loss is 1.382961
+number correct: 168
+train accuracy is 0.560000
+number correct: 132.0
+accuracy is 0.367688
+iter 400 loss is 1.819684
+iter 420 loss is 0.408076
+iter 440 loss is 1.058700
+iter 460 loss is 1.908043
+iter 480 loss is 0.366828
+number correct: 178
+train accuracy is 0.593333
+number correct: 153.0
+accuracy is 0.426184
+iter 500 loss is 1.065597
+iter 520 loss is 2.260591
+iter 540 loss is 0.758329
+iter 560 loss is 0.704017
+iter 580 loss is 0.840928
+number correct: 207
+train accuracy is 0.690000
+number correct: 156.0
+accuracy is 0.434540
+iter 600 loss is 0.602606
+iter 620 loss is 1.660566
+iter 640 loss is 1.594641
+iter 660 loss is 0.132210
+iter 680 loss is 1.676161
+number correct: 235
+train accuracy is 0.783333
+number correct: 162.0
+accuracy is 0.451253
+iter 700 loss is 0.141884
+iter 720 loss is 1.404759
+iter 740 loss is 1.120555
+iter 760 loss is 1.057178
+iter 780 loss is 0.332268
+number correct: 238
+train accuracy is 0.793333
+number correct: 178.0
+accuracy is 0.495822
+iter 800 loss is 0.226665
+iter 820 loss is 0.967511
+iter 840 loss is 0.807085
+iter 860 loss is 0.050976
+iter 880 loss is 0.218574
+number correct: 269
+train accuracy is 0.896667
+number correct: 174.0
+accuracy is 0.484680
+iter 900 loss is 0.146241
+iter 920 loss is 0.981452
+iter 940 loss is 0.244864
+iter 960 loss is 0.320826
+iter 980 loss is 0.232184
+number correct: 263
+train accuracy is 0.876667
+number correct: 179.0
+accuracy is 0.498607
+iter 1000 loss is 0.107701
+Done.
+CPU times: user 7h 35min 14s, sys: 2min 48s, total: 7h 38min 2s
+Wall time: 4h 3min 12s
+

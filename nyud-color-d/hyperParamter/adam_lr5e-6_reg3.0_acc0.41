@@ -1,0 +1,138 @@
+Running solvers for 1 epoches...
+Running solvers in 1 epoch:
+iter 20 loss is 2.812517
+iter 40 loss is 6.385559
+iter 60 loss is 2.041682
+iter 80 loss is 2.469988
+iter 100 loss is 2.540494
+iter 120 loss is 6.811775
+iter 140 loss is 2.412389
+iter 160 loss is 2.435498
+iter 180 loss is 2.341999
+iter 200 loss is 2.212964
+iter 220 loss is 6.124515
+iter 240 loss is 2.465690
+iter 260 loss is 2.341921
+iter 280 loss is 2.592846
+iter 300 loss is 2.417733
+iter 320 loss is 2.471493
+iter 340 loss is 2.093259
+iter 360 loss is 2.520372
+iter 380 loss is 2.344404
+iter 400 loss is 2.058045
+iter 420 loss is 2.517114
+iter 440 loss is 2.523832
+iter 460 loss is 2.365173
+iter 480 loss is 2.206770
+iter 500 loss is 1.902005
+iter 520 loss is 2.310774
+iter 540 loss is 2.434359
+iter 560 loss is 2.220576
+iter 580 loss is 5.969004
+iter 600 loss is 1.941632
+iter 620 loss is 2.175890
+iter 640 loss is 2.170697
+iter 660 loss is 1.839329
+iter 680 loss is 6.478596
+iter 700 loss is 2.036014
+iter 720 loss is 6.276027
+130
+train accuracy is 0.357143
+125.0
+accuracy is 0.343407
+Done.
+CPU times: user 4h 45min 6s, sys: 1min 10s, total: 4h 46min 17s
+Wall time: 2h 23min 21s
+
+
+Running solvers for 1 epoches...
+Running solvers in 1 epoch:
+iter 20 loss is 2.162448
+iter 40 loss is 2.408983
+iter 60 loss is 1.854836
+iter 80 loss is 1.587894
+iter 100 loss is 1.870628
+iter 120 loss is 1.512586
+iter 140 loss is 1.911909
+iter 160 loss is 1.764030
+iter 180 loss is 1.519592
+iter 200 loss is 1.842068
+iter 220 loss is 2.092820
+iter 240 loss is 2.002619
+iter 260 loss is 1.705914
+iter 280 loss is 1.945599
+iter 300 loss is 1.985737
+iter 320 loss is 1.762812
+iter 340 loss is 1.523666
+iter 360 loss is 1.282931
+iter 380 loss is 1.519251
+iter 400 loss is 1.210988
+iter 420 loss is 1.359905
+iter 440 loss is 1.478133
+iter 460 loss is 5.828767
+iter 480 loss is 5.701863
+iter 500 loss is 1.118568
+iter 520 loss is 5.488731
+iter 540 loss is 5.238120
+iter 560 loss is 1.263994
+iter 580 loss is 1.448111
+iter 600 loss is 1.921470
+iter 620 loss is 1.797973
+iter 640 loss is 1.277031
+iter 660 loss is 1.470830
+iter 680 loss is 0.820237
+iter 700 loss is 0.850857
+iter 720 loss is 1.450397
+234
+train accuracy is 0.642857
+149.0
+accuracy is 0.409341
+Done.
+CPU times: user 4h 43min 28s, sys: 1min 5s, total: 4h 44min 33s
+Wall time: 2h 22min 10s
+
+
+Running solvers for 1 epoches...
+Running solvers in 1 epoch:
+iter 20 loss is 9.281833
+iter 40 loss is 1.124442
+iter 60 loss is 1.055507
+iter 80 loss is 1.064857
+iter 100 loss is 1.285354
+iter 120 loss is 1.315178
+iter 140 loss is 1.702850
+iter 160 loss is 1.127163
+iter 180 loss is 1.198485
+iter 200 loss is 1.039252
+iter 220 loss is 1.196074
+iter 240 loss is 1.532194
+iter 260 loss is 0.724863
+iter 280 loss is 0.920620
+iter 300 loss is 0.665291
+iter 320 loss is 1.208200
+iter 340 loss is 1.014917
+iter 360 loss is 1.510235
+iter 380 loss is 1.099224
+iter 400 loss is 1.550046
+iter 420 loss is 5.177821
+iter 440 loss is 1.051612
+iter 460 loss is 1.126196
+iter 480 loss is 1.039547
+iter 500 loss is 1.068626
+iter 520 loss is 1.339876
+iter 540 loss is 1.442375
+iter 560 loss is 1.217466
+iter 580 loss is 1.219801
+iter 600 loss is 1.492692
+iter 620 loss is 1.178653
+iter 640 loss is 0.943265
+iter 660 loss is 1.510818
+iter 680 loss is 1.339292
+iter 700 loss is 1.037061
+iter 720 loss is 1.316003
+240
+train accuracy is 0.659341
+135.0
+accuracy is 0.370879
+Done.
+CPU times: user 4h 43min 32s, sys: 1min 5s, total

@@ -1,0 +1,131 @@
+
+solver_config.base_lr = 1e-5
+solver_config.weight_decay = 5e-4
+solver_config.iter_size = 20
+
+param = frozen_param
+
+Running solvers for 2000 iterations...
+iter 0 loss is 1.537361
+iter 20 loss is 3.518579
+iter 40 loss is 2.211362
+iter 60 loss is 2.416318
+iter 80 loss is 2.468952
+iter 100 loss is 1.802976
+accuracy is 0.234300
+iter 120 loss is 10.882417
+iter 140 loss is 2.476092
+iter 160 loss is 2.446762
+iter 180 loss is 2.512262
+iter 200 loss is 2.684009
+accuracy is 0.234300
+iter 220 loss is 1.714516
+iter 240 loss is 2.219832
+iter 260 loss is 2.170829
+iter 280 loss is 2.264903
+iter 300 loss is 1.917973
+accuracy is 0.234300
+iter 320 loss is 2.310399
+iter 340 loss is 1.996802
+iter 360 loss is 2.349057
+iter 380 loss is 2.756220
+iter 400 loss is 1.988154
+accuracy is 0.234300
+iter 420 loss is 1.952534
+iter 440 loss is 2.430667
+iter 460 loss is 2.273020
+iter 480 loss is 2.295757
+iter 500 loss is 2.053490
+accuracy is 0.234300
+iter 520 loss is 1.522241
+iter 540 loss is 1.944254
+iter 560 loss is 2.049873
+iter 580 loss is 2.039856
+iter 600 loss is 1.942685
+accuracy is 0.234300
+iter 620 loss is 1.541798
+iter 640 loss is 2.061929
+iter 660 loss is 2.074166
+iter 680 loss is 2.035577
+iter 700 loss is 1.951253
+accuracy is 0.234300
+iter 720 loss is 10.956719
+iter 740 loss is 1.931365
+iter 760 loss is 3.029127
+iter 780 loss is 10.475130
+iter 800 loss is 2.558599
+accuracy is 0.234300
+iter 820 loss is 1.916990
+iter 840 loss is 2.406455
+iter 860 loss is 2.265337
+iter 880 loss is 2.764688
+iter 900 loss is 2.167379
+accuracy is 0.234300
+iter 920 loss is 2.699149
+iter 940 loss is 1.996310
+iter 960 loss is 2.037172
+iter 980 loss is 10.673254
+iter 1000 loss is 2.821613
+accuracy is 0.234300
+iter 1020 loss is 2.116562
+iter 1040 loss is 2.210663
+iter 1060 loss is 1.913958
+iter 1080 loss is 2.248240
+iter 1100 loss is 2.248941
+accuracy is 0.234300
+iter 1120 loss is 2.816101
+iter 1140 loss is 2.518263
+iter 1160 loss is 2.209195
+iter 1180 loss is 2.191291
+iter 1200 loss is 11.013835
+accuracy is 0.234300
+iter 1220 loss is 2.761430
+iter 1240 loss is 11.211904
+iter 1260 loss is 1.814489
+iter 1280 loss is 10.855706
+iter 1300 loss is 2.919771
+accuracy is 0.234300
+iter 1320 loss is 2.030674
+iter 1340 loss is 2.058111
+iter 1360 loss is 2.258460
+iter 1380 loss is 2.026497
+iter 1400 loss is 2.365828
+accuracy is 0.234300
+iter 1420 loss is 2.131793
+iter 1440 loss is 10.775897
+iter 1460 loss is 2.180679
+iter 1480 loss is 2.294365
+iter 1500 loss is 2.128575
+accuracy is 0.234300
+iter 1520 loss is 2.422830
+iter 1540 loss is 2.511439
+iter 1560 loss is 2.218261
+iter 1580 loss is 1.864575
+iter 1600 loss is 2.263876
+accuracy is 0.234300
+iter 1620 loss is 1.715143
+iter 1640 loss is 2.385757
+iter 1660 loss is 2.005087
+iter 1680 loss is 1.947488
+iter 1700 loss is 2.249671
+accuracy is 0.234300
+iter 1720 loss is 1.804200
+iter 1740 loss is 2.660627
+iter 1760 loss is 1.886436
+iter 1780 loss is 2.193068
+iter 1800 loss is 2.890992
+accuracy is 0.234300
+iter 1820 loss is 2.250190
+iter 1840 loss is 2.527793
+iter 1860 loss is 2.486498
+iter 1880 loss is 2.644432
+iter 1900 loss is 2.024605
+accuracy is 0.234300
+iter 1920 loss is 2.108996
+iter 1940 loss is 2.374626
+iter 1960 loss is 2.052212
+iter 1980 loss is 2.231643
+iter 1999 loss is 2.621964
+Done.
+CPU times: user 8h 35min 35s, sys: 2min 26s, total: 8h 38min 1s
+Wall time: 4h 19min 39s

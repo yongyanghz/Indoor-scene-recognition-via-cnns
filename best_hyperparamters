@@ -1,0 +1,9 @@
+color: lr = 1e-5, weight_dacay =  0.3
+
+hha: lr = 1e-5, weight_dacay =  0.3
+
+color+depth: lr = 5e-6, weight_dacay =  0.3
+
+color+hha: lr = 5e-6, weight_dacay =  0.3
+
+color+depth+hha: lr = 3e-6, weight_dacay =  0.3

@@ -1,0 +1,7 @@
+lr 5e-6 reg 0.3
+copy weights from bvlc caffe model
+train for 620 iteration
+
+then copy the net frombvlc model again
+
+test accuracy 0.484330
