@@ -5,15 +5,24 @@
 use Adam method to train our models. Though experiments, analyzed the
 performance of our CNNs models and the effect of adding depth information.
 
-### model 0
+model 0
+
 input channel: color(rgb)
-### model 1
+
+model 1
+
 input channel: color(rgb) + depth
-### model 2
+
+model 2
+
 input channel: color(rgb) + hha
-### model 3
+
+model 3
+
 input channel: color(rgb) + depth + hha
-### model 4
+
+model 4
+
 input channel: hha
 
 
@@ -28,6 +37,7 @@ recognition.
 
 ## CNNs Info
 Network Architecture: AlexNet
+
 Train method: Adam method
 ## Data Set
 [NYUD Dpeth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
